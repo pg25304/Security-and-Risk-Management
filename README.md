@@ -44,9 +44,5 @@ This repository contains the following key e-Portfolio artefacts:
 * Seminar Activities and Notes
 * Presentations and Supporting Documents
 
-The repository will continue to be updated throughout the module to demonstrate my learning progress, professional development, and practical application of Security and Risk Management concepts.
-
-
-
-* Risk Assessment Artefacts
+The repository will continue to be updated throughout the module to demonstrate my learning progress, professional development, and practical application of Security and Risk Management concepts.* Risk Assessment Artefacts
 * Presentations and Supporting Documents
