@@ -26,3 +26,39 @@ This discussion improved my understanding of the ethical, legal, and professiona
 * Gather and evaluate information from multiple sources.
 * Consider legal, social, ethical, and professional responsibilities.
 * Develop critical thinking and risk assessment skills.
+
+#################################################################################
+#################################################################################
+---
+
+## Collaborative Discussion 2: Evaluating CVSS for Vulnerability Prioritisation
+
+### Topic
+
+This discussion critically evaluated the effectiveness of the Common Vulnerability Scoring System (CVSS) as a tool for assessing and prioritising software vulnerabilities. The discussion was based on research by Wunder et al. (2024), which highlighted inconsistencies in how different analysts assign CVSS scores to the same vulnerability.
+
+### My Contribution
+
+In my initial post, I argued that although CVSS provides a standardised severity score, it is not entirely objective because several metrics require human judgement. This may lead to different analysts assigning different scores to the same vulnerability, potentially resulting in inconsistent remediation priorities.
+
+I also discussed a significant limitation of CVSS: it primarily measures technical severity rather than the likelihood of exploitation in real-world environments. I proposed the Exploit Prediction Scoring System (EPSS) as a more practical alternative because it estimates the probability that a vulnerability will be exploited and therefore better supports risk-based decision-making.
+
+### Peer Contributions
+
+Moza suggested that organisations should not rely on CVSS as a standalone prioritisation mechanism. Instead, organisations should incorporate additional factors such as asset criticality, business impact, exploit availability, and operational risk. Moza also proposed developing internal scoring guidelines and calibration sessions to improve consistency among analysts.
+
+Séba contributed another important perspective by distinguishing between likelihood and impact. He argued that although EPSS addresses some limitations of CVSS, it does not evaluate the consequences for a specific organisation. He suggested that neither CVSS nor EPSS should be used independently and that vulnerability prioritisation should incorporate multiple dimensions of risk.
+
+### What I Learned
+
+This discussion improved my understanding of vulnerability prioritisation and demonstrated that cybersecurity decisions should not rely on a single numerical score. I learned that effective risk assessment requires consideration of technical severity, exploitability, business impact, and stakeholder context.
+
+I also learned the value of incorporating peer feedback into my own analysis. My initial opinion evolved from recommending EPSS as a replacement for CVSS to recognising that both approaches can complement each other within a broader decision-making framework.
+
+### Learning Outcomes Demonstrated
+
+* Critically analyse security risks and vulnerabilities.
+* Evaluate alternative risk assessment methodologies.
+* Gather and synthesise information from multiple sources.
+* Develop evidence-based decision-making skills.
+* Consider organisational and stakeholder perspectives when prioritising risks.
