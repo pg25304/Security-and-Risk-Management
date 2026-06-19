@@ -47,12 +47,6 @@ This repository contains the following key e-Portfolio artefacts:
 The repository will continue to be updated throughout the module to demonstrate my learning progress, professional development, and practical application of Security and Risk Management concepts.
 
 
-* Collaborative Discussion Summaries
-* Learning Outcomes Mapping
-* Reflective Piece
-* Professional Skills Matrix and PDP
-* Team Meeting Notes
-* Feedback from Peers and Tutors
-* Seminar Activities
+
 * Risk Assessment Artefacts
 * Presentations and Supporting Documents
