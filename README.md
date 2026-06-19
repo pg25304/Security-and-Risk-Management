@@ -37,3 +37,14 @@ Security-and-Risk-Management/
 ├── Notes/
 ├── References/
 └── README.md
+## Repository Contents
+
+* Collaborative Discussion Summaries
+* Learning Outcomes Mapping
+* Reflective Piece
+* Professional Skills Matrix and PDP
+* Team Meeting Notes
+* Feedback from Peers and Tutors
+* Seminar Activities
+* Risk Assessment Artefacts
+* Presentations and Supporting Documents
