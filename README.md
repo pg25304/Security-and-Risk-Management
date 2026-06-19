@@ -29,15 +29,23 @@ Some of the areas included in this repository are:
 ## Repository Structure
 
 ```text
-Security-and-Risk-Management/
-│
-├── Unit-1/
-├── Unit-2/
-├── Assignments/
-├── Notes/
-├── References/
-└── README.md
-## Repository Contents
+## Repository Structure
+
+This repository contains the following key e-Portfolio artefacts:
+
+* README.md
+* Collaborative Discussion Summaries
+* Learning Outcomes Mapping
+* Reflective Piece
+* Professional Skills Matrix and Personal Development Plan (PDP)
+* Team Meeting Notes
+* Feedback from Peers and Tutors
+* Risk Assessment Reports
+* Seminar Activities and Notes
+* Presentations and Supporting Documents
+
+The repository will continue to be updated throughout the module to demonstrate my learning progress, professional development, and practical application of Security and Risk Management concepts.
+
 
 * Collaborative Discussion Summaries
 * Learning Outcomes Mapping
