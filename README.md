@@ -28,20 +28,33 @@ Some of the areas included in this repository are:
 
 ## Repository Structure
 
-```text
-## Repository Structure
+This repository contains coursework, supporting resources, and a dedicated e-Portfolio developed throughout the Security and Risk Management module.
 
-This repository contains the following key e-Portfolio artefacts:
+### 01_E-Portfolio
 
-* README.md
-* Collaborative Discussion Summaries
-* Learning Outcomes Mapping
-* Reflective Piece
-* Professional Skills Matrix and Personal Development Plan (PDP)
-* Team Meeting Notes
-* Feedback from Peers and Tutors
-* Risk Assessment Reports
-* Seminar Activities and Notes
-* Presentations and Supporting Documents
+This folder contains the core e-Portfolio artefacts required for assessment:
 
-The repository will continue to be updated throughout the module to demonstrate my learning progress, professional development, and practical application of Security and Risk Management concepts.
+- Collaborative Discussion Summaries
+- Learning Outcomes Mapping
+- Reflective Piece
+- Professional Skills Matrix and Personal Development Plan (PDP)
+- Team Meeting Notes
+- Feedback from Peers and Tutors
+
+### Core Assessment Files
+
+This folder will contain the major assessment submissions developed during the module.
+
+### Supporting Resources
+
+The remaining files in this repository are supporting study materials and evidence gathered throughout the module, including:
+
+- Seminar preparation notes
+- Lecturecast notes
+- Wiki activities
+- Risk assessment reports
+- Presentations
+- Academic reading notes
+- Reference documents
+
+These resources demonstrate my continuous learning process and support the development of my e-Portfolio throughout the module.
