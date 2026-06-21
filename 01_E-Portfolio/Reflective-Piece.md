@@ -1,0 +1,33 @@
+Reflection on Security and Risk Management Module
+This module has significantly expanded my understanding of cybersecurity by demonstrating that security is not only a technical discipline but also a strategic and multidimensional process.
+Throughout the module, I developed a broader perspective on how risks should be identified, assessed, and managed within organisations while considering technical, organisational, legal, and human factors.
+One of the most challenging aspects of the module was understanding the large number of methods, standards, and frameworks that were introduced. 
+At the beginning, it was difficult to comprehend how each framework should be applied and how they related to one another.
+I found myself reviewing the Lecturecasts and learning materials several times before fully understanding their purpose and application.
+However, this repeated exposure gradually increased my confidence and enabled me to connect theoretical concepts with practical scenarios.
+One of the most valuable lessons I learned was understanding how cybersecurity professionals make decisions when complete certainty is not possible.
+Before studying this module, I often wondered how security professionals could confidently recommend a course of action when information is incomplete or when multiple options are available.
+Studying Multi-Criteria Decision Analysis (MCDA) provided useful insights into structured decision-making and demonstrated how different criteria can be evaluated systematically.
+I also learned that risk assessment is a multidimensional process that requires consideration of multiple factors and stakeholders. Focusing on only one aspect of risk can lead to incomplete or inaccurate conclusions.
+Effective risk assessment must consider technical, organisational, legal, financial, and human factors to provide a reliable basis for decision-making. 
+Perhaps the most important realisation was understanding that risk assessment forms the foundation of cybersecurity management.
+If the assessment is inaccurate or incomplete, the resulting mitigation strategies may not be effective, which could significantly affect organisational security.
+Working with Moza was also a valuable learning experience. At the beginning of the project, we had a voice call and I noticed that Moza sounded much younger than I had expected.
+Initially, I wondered whether our age difference and different backgrounds might create challenges when working together. 
+However, the experience quickly demonstrated that successful teamwork is not determined by age, but by professionalism, responsibility, and effective communication. 
+During our initial planning meeting, we agreed to divide the work according to our strengths. 
+Moza would conduct the risk assessment of the organisation's current situation, while I would assess the risks associated with digitalisation.
+We also agreed that I would be responsible for integrating our individual contributions and preparing the final unit report.
+However, during our following meeting, Moza expressed an interest in taking responsibility for compiling and writing the complete report. 
+I accepted this change immediately and without hesitation, as I believed maintaining a cooperative and flexible approach was more important than insisting on the original allocation of tasks. 
+This experience reinforced the importance of adaptability when working in teams. I learned that successful collaboration requires trust, openness to change, and a willingness to support teammates when responsibilities evolve.
+More importantly, it demonstrated that effective teamwork is built upon mutual respect, clear communication, and a shared commitment to achieving common goals rather than rigidly adhering to initial plans.
+The Lecturecasts were among the most helpful learning activities because they not only provided valuable information but also gave me a clear overview of each unit and guided my further learning and independent research.
+They helped me understand the purpose of each topic and identify areas that required additional study. The seminars were equally valuable because they allowed me to clarify ambiguities by asking questions directly to my tutor.
+These interactive sessions helped me strengthen my understanding of difficult concepts and gain confidence in applying them to practical cybersecurity and risk management scenarios.
+The skill that improved the most during this module was my critical thinking and risk analysis ability. I learned to evaluate problems from multiple perspectives rather than focusing solely on technical risks.
+This broader approach enabled me to consider organisational, legal, human, and business impacts when assessing cybersecurity issues.
+I believe this change in perspective will be particularly valuable in my future career as a cybersecurity professional. 
+Overall, this module has increased my confidence in conducting risk assessments and making informed decisions in uncertain situations.
+It has also strengthened my appreciation of the importance of communication, teamwork, and continuous learning.
+I now have a much clearer understanding that effective cybersecurity is built upon reliable risk assessment, professional judgement, and a balanced consideration of all stakeholders involved
