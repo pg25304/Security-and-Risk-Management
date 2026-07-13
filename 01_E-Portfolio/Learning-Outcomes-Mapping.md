@@ -7,7 +7,7 @@
 ### Evidence
 
 * [Pampered Pets Digitalisation Risk Assessment](../Pampered_Pets_Digitalisation_Risk_Assessment.docx)
-* Threat Modelling Activities
+* [Threat Management and Modelling Notes](../Threat%20Management%20and%20Modelling.docx)
 * Cyber Attack Analysis Exercises
 
 ### Demonstration
