@@ -20,6 +20,9 @@ This broader approach enabled me to consider organisational, legal, human, and b
 I believe this change in perspective will be particularly valuable in my future career as a cybersecurity professional. 
 Overall, this module has significantly increased my confidence in conducting risk assessments and making informed decisions under conditions of uncertainty. More importantly, it has changed the way I think about cybersecurity. I now appreciate that effective cybersecurity is not simply about implementing technical controls, but about balancing technical, organisational, legal, ethical and human considerations to support informed decision-making. Looking ahead, I intend to apply this risk-based mindset throughout my professional career by making evidence-based decisions, remaining open to continuous learning and adapting to the evolving threat landscape. This commitment to continuous learning reflects the importance of reflective practice in supporting ongoing professional development (Rolfe, Freshwater and Jasper, 2001).Reflecting on my journey throughout this module, I believe I have developed not only stronger technical knowledge but also the professional judgement, critical thinking and collaborative skills expected of a developing cybersecurity practitioner.
 
-References
+##References
 
 Aven, T. (2015) Risk Analysis. 2nd edn. Chichester: Wiley.
+Belbin, R.M. (2010) *Team Roles at Work*. 2nd edn. Oxford: Butterworth-Heinemann.
+Hubbard, D.W. (2020) *The Failure of Risk Management: Why It's Broken and How to Fix It*. 2nd edn. Hoboken, NJ: Wiley.
+Rolfe, G., Freshwater, D. and Jasper, M. (2001) *Critical Reflection in Nursing and the Helping Professions: A User's Guide*. Basingstoke: Palgrave.
