@@ -8,7 +8,7 @@
 
 * [Pampered Pets Digitalisation Risk Assessment](../Pampered_Pets_Digitalisation_Risk_Assessment.docx)
 * [Threat Management and Modelling Notes](../Threat%20Management%20and%20Modelling.docx)
-* Cyber Attack Analysis Exercises
+* [Cyber-Physical Systems (CPS) Threat Modelling – Seminar Notes](../Cyber-Physical%20Systems%20(CPS)%20Threat%20Modelling%20%E2%80%93%20Seminar%20Notes.docx)
 
 ### Demonstration
 
