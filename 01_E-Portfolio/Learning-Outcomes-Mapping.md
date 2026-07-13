@@ -22,10 +22,10 @@ Throughout the module I identified and analysed a variety of security threats, v
 
 ### Evidence
 
-* GDPR Case Study
-* Security Standards Seminar Activities
-* Collaborative Discussions
-* Academic Research and Referencing
+* [e-Portfolio Activity – GDPR Case Studies](../e-Portfolio%20Activity%20%E2%80%93%20GDPR%20Case%20Studies.docx)
+* [Security Standards Seminar Preparation](../Security_Standards_Seminar_Preparation.docx)
+* [Collaborative Discussion Summaries](./Collaborative-Discussion-Summaries.md)
+* [Unit 5 – Wiki Activity – Security Framework](../Unit%205%20-%20Wiki%20Activity%20-%20Security%20Framework.docx)
 
 ### Demonstration
 
