@@ -40,9 +40,8 @@ I gathered information from academic literature, industry frameworks, legal guid
 ### Evidence
 
 * [Pampered Pets Digitalisation Risk Assessment](../Pampered_Pets_Digitalisation_Risk_Assessment.docx)
-* NIST Cybersecurity Framework Activities
-* Security Controls Analysis
-* Risk Treatment Recommendations
+* [Security Standards Seminar Preparation](../Security_Standards_Seminar_Preparation.docx)
+* [Threat Management and Modelling Notes](../Threat%20Management%20and%20Modelling.docx)
 
 ### Demonstration
 
