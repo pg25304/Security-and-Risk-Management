@@ -24,15 +24,15 @@
 
 ### Medium-Term Goals (6–12 Months)
 
-* Develop a deeper understanding of cybersecurity governance frameworks.
-* Improve my ability to evaluate organisational and business risks.
-* Enhance my professional communication skills.
+* Develop practical experience applying cybersecurity governance frameworks such as ISO/IEC 27001, NIST CSF and COBIT within organisational environments.
+* Strengthen my ability to perform quantitative and qualitative risk assessments to support evidence-based security decision-making.
+* Continue developing professional communication and leadership skills through collaborative projects and stakeholder engagement.
 
 ### Long-Term Goals (1–3 Years)
 
-* Build a career as a cybersecurity professional with strong risk management skills.
-* Apply risk assessment methodologies confidently in professional environments.
-* Continue developing technical, analytical, and leadership skills through professional certifications and continuous learning.
+* Build a career in cybersecurity governance, risk management and information security, applying evidence-based decision-making to protect organisational assets.
+* Apply quantitative and qualitative risk assessment methodologies confidently within complex organisational environments and contribute to strategic security decision-making.
+* Continue developing technical, analytical and leadership capabilities by pursuing professional certifications, engaging in continuous professional development and keeping pace with emerging cybersecurity threats and technologies.
 
 ---
 
