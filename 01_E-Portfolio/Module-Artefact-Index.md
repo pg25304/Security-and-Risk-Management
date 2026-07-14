@@ -1,9 +1,11 @@
 # Module Artefact Index
 
-This index provides direct access to selected artefacts from each unit of the Security and Risk Management module. 
-It demonstrates the progression of my learning across the module and supports the evidence presented in the learning outcomes mapping and reflective piece.
+This page provides an overview of my learning journey throughout the Security and Risk Management module. Rather than presenting isolated documents, it demonstrates how each unit contributed to the development of my knowledge, practical skills and professional judgement. The artefacts listed below provide evidence of my progression from understanding fundamental security concepts to applying structured risk assessment methods, collaborating effectively within a team and reflecting critically on my professional development.
+
+This index is intended to help the reader navigate the e-portfolio by providing direct access to the key artefacts that demonstrate achievement of the module learning outcomes.
 ## Artefact Overview
 
-| Unit | Main Artefact | Purpose |
-|------|---------------|---------|
-| Unit 1 | Lecturecast – Security and Risk Management | Introduced the fundamental principles of security, risk, threats and vulnerabilities that formed the basis for the remainder of the module. |
+| Unit | What I Learned | Evidence |
+|------|--------------|---------------|
+| Unit 1 | Foundations of security, risk, threats and vulnerabilities | Lecturecast – Security and Risk Management |
+| Unit 2 | Governance, legal compliance and security standards | Security Standards Seminar Preparation |
