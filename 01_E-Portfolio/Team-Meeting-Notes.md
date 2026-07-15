@@ -7,13 +7,13 @@
 
 ---
 
-# Meeting 1: Initial Planning
+## Meeting 1: Initial Planning
 
-## Purpose
+### Purpose
 
 To discuss the project requirements, agree on communication methods, and allocate responsibilities for the Unit 6 group project.
 
-## Discussion
+### Discussion
 
 - Initial contact was established through the University of Essex Online learning platform.
 - Communication then moved to email to simplify collaboration and document sharing.
@@ -37,7 +37,7 @@ At the end of the meeting, it was agreed that Payman would combine both contribu
 
 ---
 
-# Meeting 2: Project Progress Review
+## Meeting 2: Project Progress Review
 
 ## Purpose
 
@@ -51,7 +51,7 @@ This experience demonstrated the importance of remaining flexible when project r
 
 ---
 
-# Reflection on Teamwork
+## Reflection on Teamwork
 
 Working on this project reinforced several important professional skills.
 
@@ -61,7 +61,7 @@ The experience also strengthened my appreciation of mutual respect and professio
 
 ---
 
-# Skills Developed
+## Skills Developed
 
 - Teamwork
 - Professional communication
