@@ -55,7 +55,6 @@ I evaluated and recommended security controls including MFA, staff awareness tra
 
 ### Evidence
 
-Evidence
 
 * [e-Portfolio Activity – GDPR Case Studies](../e-Portfolio%20Activity%20%E2%80%93%20GDPR%20Case%20Studies.docx)
 * [Collaborative Discussion Summaries](./Collaborative-Discussion-Summaries.md)
