@@ -1,4 +1,6 @@
-# Feedback from Peers and Tutors
+# Feedback and Actions Taken
+
+## Feedback from Peers and Tutors
 
 ## Peer Feedback
 
@@ -20,18 +22,18 @@ Séba highlighted the distinction between likelihood and impact. He argued that 
 
 ## Actions Taken
 
-The feedback received from my peers helped me refine my critical thinking and broaden my perspective when evaluating cybersecurity risks. Rather than relying on a single metric or viewpoint, I learned to incorporate technical, organisational, legal, and stakeholder considerations into my decision-making process.
+The feedback received from my peers broadened my approach to cybersecurity risk assessment by encouraging me to consider technical, organisational, legal and ethical perspectives together. Rather than relying on a single methodology or viewpoint, I learned to evaluate security decisions within their wider business and societal context, resulting in more balanced and evidence-based judgements.
 
-I also recognised the importance of continuously reviewing my own assumptions and being open to alternative perspectives when assessing security risks.
+This experience also reminded me not to become too confident in my own assumptions. Listening to different viewpoints during the discussions encouraged me to question my initial opinions and consider alternative approaches before reaching a conclusion. I believe this has made me a more reflective and open-minded cybersecurity practitioner.
 
 ## Tutor Feedback
 
-I received positive feedback on my first assignment. The tutor highlighted my strong understanding of the case study and my ability to apply appropriate risk assessment standards and frameworks effectively.
+The tutor commended my ability to analyse the case study, apply appropriate risk assessment standards and frameworks, and consider wider organisational and business factors when evaluating security risks. The feedback also recognised the quality of my critical analysis and the clear structure and presentation of the assignment.
 
-The feedback recognised my comprehensive analysis of broader business factors that could influence organisational revenue, as well as my thorough identification of risk factors and their potential impacts. The tutor also acknowledged the strength of my critical analysis and commented positively on the overall structure and presentation of the work.
+This feedback reinforced my confidence in applying structured risk assessment approaches while encouraging me to continue developing my analytical skills.
 
-One area identified for further improvement was the depth of my critical evaluation. Specifically, I was encouraged to expand my discussion of the limitations and challenges associated with applying risk assessment methodologies in practice.
+The tutor also encouraged me to strengthen my critical evaluation by discussing the limitations, assumptions and practical challenges associated with applying different risk assessment methodologies. This highlighted the importance of not only selecting an appropriate approach but also demonstrating an awareness of its weaknesses and the contexts in which alternative methods may be more suitable.
 
 ### Actions Taken
 
-I will incorporate this feedback into future assignments by placing greater emphasis on critically discussing the limitations, assumptions, and practical challenges of the risk assessment approaches that I use. This will help me develop a more balanced and evidence-based evaluation style in future work.
+The tutor's feedback had a direct influence on my approach to the Individual Executive Summary. Rather than focusing only on selecting an appropriate risk assessment method, I made a conscious effort to evaluate the strengths, limitations and assumptions of each approach before justifying my final choice. This encouraged me to compare Monte Carlo simulation with alternative methods, such as Bayesian analysis and MCDA, and explain why it was the most appropriate technique for the Pampered Pets scenario. Looking back, I believe this resulted in a more balanced and critically evaluated piece of work and demonstrated my development throughout the module.
