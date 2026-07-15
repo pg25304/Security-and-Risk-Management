@@ -43,7 +43,7 @@ This folder contains the core e-Portfolio artefacts required for assessment:
 
 ### Core Assessment Files
 
-This folder will contain the major assessment submissions developed during the module.
+The repository contains the major assessment submissions developed during the module, including the team risk assessment and the Individual Executive Summary.
 
 ### Supporting Resources
 
