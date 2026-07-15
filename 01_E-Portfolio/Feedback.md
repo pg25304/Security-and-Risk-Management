@@ -30,7 +30,7 @@ This experience also reminded me not to become too confident in my own assumptio
 
 The tutor commended my ability to analyse the case study, apply appropriate risk assessment standards and frameworks, and consider wider organisational and business factors when evaluating security risks. The feedback also recognised the quality of my critical analysis and the clear structure and presentation of the assignment.
 
-This feedback reinforced my confidence in applying structured risk assessment approaches while encouraging me to continue developing my analytical skills.
+This feedback increased my confidence in applying structured risk assessment approaches while reminding me that strong analysis also requires critical evaluation of the methods used, not just their application.
 
 The tutor also encouraged me to strengthen my critical evaluation by discussing the limitations, assumptions and practical challenges associated with applying different risk assessment methodologies. This highlighted the importance of not only selecting an appropriate approach but also demonstrating an awareness of its weaknesses and the contexts in which alternative methods may be more suitable.
 
