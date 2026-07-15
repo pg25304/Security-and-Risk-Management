@@ -2,74 +2,71 @@
 
 ## Team Members
 
-* Payman Ghorbani
-* Moza Khalfan Musabah Al-Handasi
+- Payman Ghorbani
+- Moza Khalfan Musabah Al-Handasi
 
 ---
 
-## Meeting 1: Initial Planning
+# Meeting 1: Initial Planning
 
-### Purpose
+## Purpose
 
-To discuss the project requirements, allocate responsibilities, and establish communication methods.
+To discuss the project requirements, agree on communication methods, and allocate responsibilities for the Unit 6 group project.
 
-### Discussion Points
+## Discussion
 
-* Initial contact was made through the University of Essex learning platform.
-* Communication then moved to email for convenience.
-* A voice call was held to discuss the project objectives and task allocation.
-* Responsibilities were divided according to individual preferences and strengths.
+- Initial contact was established through the University of Essex Online learning platform.
+- Communication then moved to email to simplify collaboration and document sharing.
+- A voice call was arranged to discuss the project objectives, agree on task allocation, and establish expectations.
+- Responsibilities were allocated according to each team member's interests and strengths.
 
-### Agreed Responsibilities
+## Agreed Responsibilities
 
-**Payman**
+### Payman
 
-* Conduct the digitalisation risk assessment.
-* Research digital transformation risks.
-* Prepare security recommendations.
+- Conduct the digitalisation risk assessment.
+- Research risks associated with digital transformation.
+- Develop security recommendations.
 
-**Moza**
+### Moza
 
-* Conduct the current-state risk assessment.
-* Analyse existing organisational risks.
+- Conduct the current-state risk assessment.
+- Analyse existing organisational risks.
 
-Initially, it was agreed that Payman would integrate both contributions and prepare the final unit report.
-
----
-
-## Meeting 2: Project Progress Review
-
-### Purpose
-
-To review progress and adjust responsibilities where necessary.
-
-### Discussion Points
-
-* Moza requested to take responsibility for compiling and writing the final report.
-* The change was accepted immediately to maintain a flexible and cooperative working environment.
-* Both team members agreed that adaptability and collaboration were more important than rigidly following the original task allocation.
+At the end of the meeting, it was agreed that Payman would combine both contributions and prepare the final report for submission.
 
 ---
 
-## Teamwork Reflection
+# Meeting 2: Project Progress Review
 
-This project demonstrated the importance of:
+## Purpose
 
-* Clear communication.
-* Flexibility when responsibilities change.
-* Mutual respect.
-* Supporting teammates.
-* Professionalism regardless of age or background differences.
+To review progress, discuss any issues encountered, and confirm the remaining tasks before submission.
 
-The project reinforced that successful teamwork depends on commitment, cooperation, and shared responsibility rather than personal differences.
+## Discussion
+
+During the meeting, Moza requested responsibility for compiling and submitting the final report. After discussing the change, I agreed to transfer this responsibility in the interests of maintaining a positive and collaborative working relationship. Both of us agreed that supporting the team's overall success was more important than rigidly following the original task allocation.
+
+This experience demonstrated the importance of remaining flexible when project requirements or responsibilities change.
 
 ---
 
-## Skills Developed
+# Reflection on Teamwork
 
-* Teamwork
-* Communication
-* Adaptability
-* Time management
-* Professionalism
-* Leadership
+Working on this project reinforced several important professional skills.
+
+Clear communication ensured that responsibilities and expectations were understood from the outset, reducing the likelihood of misunderstandings. Flexibility proved equally important when responsibilities changed during the project, demonstrating that successful teamwork often requires adapting to changing circumstances rather than insisting on the original plan.
+
+The experience also strengthened my appreciation of mutual respect and professionalism. Although team members had different backgrounds and perspectives, maintaining open communication and supporting one another helped us complete the project successfully. Overall, this project demonstrated that effective teamwork depends on cooperation, accountability and a shared commitment to achieving the best outcome.
+
+---
+
+# Skills Developed
+
+- Teamwork
+- Professional communication
+- Adaptability
+- Time management
+- Professionalism
+- Collaboration
+- Leadership
