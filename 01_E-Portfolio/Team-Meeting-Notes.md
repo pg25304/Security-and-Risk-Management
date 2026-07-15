@@ -20,7 +20,7 @@ To discuss the project requirements, agree on communication methods, and allocat
 - A voice call was arranged to discuss the project objectives, agree on task allocation, and establish expectations.
 - Responsibilities were allocated according to each team member's interests and strengths.
 
-## Agreed Responsibilities
+### Agreed Responsibilities
 
 ### Payman
 
@@ -39,11 +39,11 @@ At the end of the meeting, it was agreed that Payman would combine both contribu
 
 ## Meeting 2: Project Progress Review
 
-## Purpose
+### Purpose
 
 To review progress, discuss any issues encountered, and confirm the remaining tasks before submission.
 
-## Discussion
+### Discussion
 
 During the meeting, Moza requested responsibility for compiling and submitting the final report. After discussing the change, I agreed to transfer this responsibility in the interests of maintaining a positive and collaborative working relationship. Both of us agreed that supporting the team's overall success was more important than rigidly following the original task allocation.
 
