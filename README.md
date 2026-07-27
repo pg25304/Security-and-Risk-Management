@@ -1,103 +1,162 @@
 # Security and Risk Management Portfolio
 
-This repository showcases my MSc Cybersecurity work in Security and Risk Management at the University of Essex. It demonstrates the practical application of cybersecurity governance, risk assessment, threat modelling, business continuity, and quantitative risk analysis through coursework, research, and an assessed e-Portfolio.
+This repository showcases my work completed during the **Security and Risk Management** module of the **MSc Cybersecurity** programme at the **University of Essex**.
+
+It demonstrates the practical application of cybersecurity governance, information risk management, threat modelling, business continuity, quantitative risk analysis, and professional decision-making through coursework, research, practical exercises, and an assessed e-Portfolio.
+
+---
 
 ## Contents
 
-- Topics Covered
-- Skills Demonstrated
-- Tools and Frameworks
-- Repository Structure
-- Learning Journey and Module Artefact Index
-- 
+- [Repository Overview](#repository-overview)
+- [Knowledge and Competencies](#knowledge-and-competencies)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Tools, Standards and Frameworks](#tools-standards-and-frameworks)
+- [Repository Structure](#repository-structure)
+- [Learning Journey](#learning-journey)
+- [Key Assessments](#key-assessments)
+- [Supporting Resources](#supporting-resources)
+- [Professional Development](#professional-development)
+- [Conclusion](#conclusion)
+
+---
+
+## Repository Overview
+
+Throughout this module I explored how organisations identify, assess, and manage information security risks. The repository combines theoretical study with practical application, demonstrating the development of technical knowledge, analytical thinking, collaborative working, and professional communication expected of a cybersecurity practitioner.
+
+---
+
 ## Knowledge and Competencies
 
-This portfolio demonstrates the knowledge, practical skills, and analytical competencies developed throughout the Security and Risk Management module, including:
+This portfolio demonstrates practical knowledge and application of:
 
 - Risk Assessment and Risk Management
-- Cybersecurity Frameworks (NIST CSF, ISO 27001)
+- Cybersecurity Governance
+- Information Security Principles
 - Threat Modelling
 - Vulnerability Analysis
-- Information Security Principles
 - Security Governance and Compliance
+- Business Continuity Planning
+- Disaster Recovery Planning
 - Risk Mitigation Strategies
-- Business Continuity and Disaster Recovery
 - Security Policies and Procedures
+- Quantitative Risk Modelling
 - Emerging Cybersecurity Threats
+
+---
 
 ## Skills Demonstrated
 
-- Risk assessment and risk prioritisation
-- Threat modelling and vulnerability analysis
-- Security governance and compliance
-- Business continuity and disaster recovery planning
-- Quantitative risk modelling
-- Technical and academic report writing
-- Team collaboration and reflective practice
+Throughout this module I developed and applied the following professional skills:
 
-  ## Tools and Frameworks
+- Risk identification and prioritisation
+- Security risk analysis
+- Threat modelling and attack analysis
+- Business continuity planning
+- Disaster recovery planning
+- Security governance
+- Quantitative risk modelling (Monte Carlo, Bayesian Analysis and MCDA)
+- Critical evaluation of cybersecurity risks
+- Technical report writing
+- Academic research
+- Team collaboration
+- Reflective practice
+
+---
+
+## Tools, Standards and Frameworks
+
+### Tools
 
 - Git & GitHub
-- Microsoft Excel (Monte Carlo risk modelling)
+- Microsoft Excel
 - Microsoft Word
+
+### Standards and Frameworks
+
 - NIST Cybersecurity Framework (CSF)
 - ISO/IEC 27001
 - CVSS
 - OWASP Threat Modelling
+- GDPR
+- COBIT
+
+---
 
 ## Repository Structure
 
 | Folder | Description |
-|--------|-------------|
-| 01_E-Portfolio | Reflective work, collaborative discussions, learning outcomes, PDP, and assessment evidence. |
-| Models | Risk models, diagrams, and analytical frameworks developed during the module. |
-| Presentations | Presentation slides used for seminars and coursework. |
-| References | Academic references, citation material, and supporting literature. |
-| Reports | Coursework reports and major assessment submissions. |
-| Resources | Lecture notes, seminar preparation, reading notes, and supporting study materials. |
-| Templates | Templates and reusable documents created during the module. |
+|---------|-------------|
+| **01_E-Portfolio** | Reflective work, collaborative discussions, learning outcomes, PDP, feedback and assessment evidence. |
+| **Models** | Risk models, diagrams, simulations and analytical frameworks. |
+| **Presentations** | Seminar and coursework presentations. |
+| **References** | Academic references and supporting literature. |
+| **Reports** | Major coursework reports and assessment submissions. |
+| **Resources** | Lecture notes, seminar preparation, wiki activities and study materials. |
+| **Templates** | Reusable templates and supporting documents. |
 
-### Core Assessment Files
-
-The repository contains the major assessment submissions developed during the module, including the team risk assessment and the Individual Executive Summary.
-
-### Supporting Resources
-
-The remaining files in this repository are supporting study materials and evidence gathered throughout the module, including:
-
-- Seminar preparation notes
-- Lecturecast notes
-- Wiki activities
-- Risk assessment reports
-- Presentations
-- Academic reading notes
-- Reference documents
-
-These resources demonstrate my continuous learning process and support the development of my e-Portfolio throughout the module.
+---
 
 ## Learning Journey
 
-This e-Portfolio demonstrates my development throughout the Security and Risk Management module, evidencing how I progressively applied theoretical concepts, practical risk assessment techniques, collaborative working, and reflective practice to develop the knowledge, judgement, and professional skills expected of a cybersecurity practitioner.
+This portfolio evidences my progression throughout the Security and Risk Management module, demonstrating how theoretical knowledge was progressively applied to realistic cybersecurity problems.
 
-| Module Unit | Representative Artefact | Professional Skills Developed |                                                                                   |
-| ------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
-| Unit 1  | Unit 1 Lecturecast notes                                                 | Established my initial understanding of security and risk management concepts.                                   |
-| Unit 2  | Collaborative Discussion 1 and GDPR-related activity                     | Developed awareness of legal, ethical and human-rights issues associated with emerging technologies.             |
-| Unit 3  | Unit 3 Lecturecast notes and enterprise risk-management study            | Expanded my understanding of organisational risk and structured risk-management approaches.                      |
-| Unit 4  | Threat-modelling and seminar activities                                  | Applied threat-identification concepts to technical and cyber-physical scenarios.                                |
-| Unit 5  | Wiki contribution and team-planning evidence                             | Demonstrated collaborative research, communication and shared knowledge development.                             |
-| Unit 6  | Pampered Pets status document and team risk-identification report        | Applied security and risk-management frameworks to an organisational case study.                                 |
-| Unit 7  | Quantitative Risk Modelling Lecturecast notes                            | Developed my understanding of quantitative analysis, uncertainty and risk-based decision-making.                 |
-| Unit 8  | Quantitative Risk Modelling seminar preparation                          | Strengthened my ability to compare and apply methods such as MCDA, Bayesian analysis and Monte Carlo simulation. |
-| Unit 9  | Business Continuity and Disaster Recovery Lecturecast notes              | Connected risk assessment with resilience, recovery planning and continuity requirements.                        |
-| Unit 10 | Monte Carlo Risk Model – Pampered Pets                                   | Applied quantitative modelling to estimate risk and support evidence-based decisions.                            |
-| Unit 11 | Individual Project Executive Summary and future-trends Lecturecast notes | Integrated the module’s learning into a strategic risk assessment and mitigation proposal.                       |
-| Unit 12 | Reflective Piece, Skills Matrix and PDP                                  | Critically evaluated my learning, teamwork, professional development and future actions.                         |
+| Module Unit | Representative Artefact | Professional Skills Developed |
+|-------------|-------------------------|--------------------------------|
+| Unit 1 | Lecturecast Notes | Built foundational knowledge of security and risk management principles. |
+| Unit 2 | Collaborative Discussion & GDPR Activity | Developed understanding of legal, ethical and human-rights considerations. |
+| Unit 3 | Enterprise Risk Management Study | Applied structured organisational risk management concepts. |
+| Unit 4 | Threat Modelling Activities | Practised identifying threats and attack paths in technical and cyber-physical systems. |
+| Unit 5 | Wiki Contribution & Team Planning | Developed collaborative research and professional communication skills. |
+| Unit 6 | Pampered Pets Risk Assessment | Applied security frameworks to an organisational case study. |
+| Unit 7 | Quantitative Risk Modelling | Explored uncertainty, probability and evidence-based decision making. |
+| Unit 8 | Quantitative Risk Seminar | Compared Bayesian Analysis, MCDA and Monte Carlo simulation. |
+| Unit 9 | Business Continuity & Disaster Recovery | Connected resilience planning with organisational risk management. |
+| Unit 10 | Monte Carlo Risk Model | Applied quantitative modelling to support management decisions. |
+| Unit 11 | Individual Executive Summary | Integrated module learning into a strategic organisational risk assessment. |
+| Unit 12 | Reflective Portfolio & PDP | Evaluated professional growth, teamwork and future development goals. |
 
-The complete repository also contains seminar notes, presentations, transcripts, assessment drafts, peer and tutor feedback, simulations and supporting research. Together, these artefacts demonstrate sustained engagement and development across the duration of the module.
+---
+
+## Key Assessments
+
+The repository includes the major assessed coursework completed during the module, including:
+
+- Team Risk Assessment
+- Individual Executive Summary
+- Reflective e-Portfolio
+- Professional Skills Matrix
+- Personal Development Plan (PDP)
+
+---
+
+## Supporting Resources
+
+Additional materials supporting the learning journey include:
+
+- Lecture notes
+- Seminar preparation
+- Wiki activities
+- Academic reading notes
+- Research material
+- Presentation slides
+- Assessment drafts
+- Peer feedback
+- Tutor feedback
+- Risk modelling exercises
+
+These resources demonstrate continuous engagement with the module and provide evidence of progressive learning throughout the programme.
+
+---
+
+## Professional Development
+
+Beyond completing academic assessments, this repository demonstrates the continuous development of analytical thinking, structured problem solving, cybersecurity governance knowledge, professional communication, collaborative working, and reflective practice. Together these artefacts illustrate my progression towards becoming a cybersecurity professional capable of applying recognised frameworks and evidence-based risk management techniques.
+
+---
 
 ## Conclusion
 
-This repository reflects my development throughout the Security and Risk Management module and demonstrates my ability to analyse cybersecurity risks, apply recognised security frameworks, evaluate organisational threats, and communicate technical findings through professional documentation. It serves as evidence of both my academic achievement and my continuing professional development in cybersecurity.
-
+This portfolio represents my development throughout the Security and Risk Management module and demonstrates my ability to analyse cybersecurity risks, evaluate organisational security challenges, apply recognised standards and frameworks, and communicate technical findings through professional documentation. It forms part of my wider cybersecurity portfolio and reflects my continuing professional development as an MSc Cybersecurity student.
 
