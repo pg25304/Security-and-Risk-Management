@@ -1,6 +1,6 @@
 # Security and Risk Management Portfolio
 
-This repository showcases my work completed during the **Security and Risk Management** module of the **MSc Cybersecurity** programme at the **University of Essex**.
+This repository forms part of my professional cybersecurity portfolio and showcases the work completed during the Security and Risk Management module of the MSc Cybersecurity programme at the University of Essex.
 
 It demonstrates the practical application of cybersecurity governance, information risk management, threat modelling, business continuity, quantitative risk analysis, and professional decision-making through coursework, research, practical exercises, and an assessed e-Portfolio.
 
@@ -22,7 +22,7 @@ It demonstrates the practical application of cybersecurity governance, informati
 
 ## Repository Overview
 
-Throughout this module I explored how organisations identify, assess, and manage information security risks. The repository combines theoretical study with practical application, demonstrating the development of technical knowledge, analytical thinking, collaborative working, and professional communication expected of a cybersecurity practitioner.
+Throughout this module I developed the ability to identify, assess, analyse and manage organisational information security risks using recognised cybersecurity frameworks, quantitative risk analysis techniques and professional governance practices. The repository combines academic study with practical application, demonstrating the technical knowledge, analytical thinking, collaborative working and professional communication expected of a cybersecurity practitioner.
 
 
 ## Knowledge and Competencies
@@ -61,9 +61,9 @@ Throughout this module I developed and applied the following professional skills
 - Reflective practice
 
 
-## Tools, Standards and Frameworks
+## Software, Standards and Frameworks
 
-### Tools
+### Software
 
 - Git & GitHub
 - Microsoft Excel
