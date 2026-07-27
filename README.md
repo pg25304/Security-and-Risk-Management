@@ -1,6 +1,6 @@
 # Security and Risk Management
 
-Welcome to my Security and Risk Management repository.
+This repository showcases my MSc Cybersecurity work in Security and Risk Management at the University of Essex. It demonstrates the practical application of cybersecurity governance, risk assessment, threat modelling, business continuity, and quantitative risk analysis through coursework, research, and an assessed e-Portfolio.
 
 This repository contains my academic work, notes, practical activities, research, and coursework related to cybersecurity, security management, and risk assessment as part of my MSc Cybersecurity studies.
 
