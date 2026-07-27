@@ -2,21 +2,12 @@
 
 This repository showcases my MSc Cybersecurity work in Security and Risk Management at the University of Essex. It demonstrates the practical application of cybersecurity governance, risk assessment, threat modelling, business continuity, and quantitative risk analysis through coursework, research, and an assessed e-Portfolio.
 
-This repository contains my academic work, notes, practical activities, research, and coursework related to cybersecurity, security management, and risk assessment as part of my MSc Cybersecurity studies.
-
-The purpose of this repository is to:
-- Organise my university work and projects
-- Track my learning progress
-- Build a professional cybersecurity portfolio
-- Store research, references, and practical exercises
-- Demonstrate technical and analytical skills in security and risk management
-
 ## Topics Covered
 
-Some of the areas included in this repository are:
+This repository demonstrates practical knowledge and application of:
 
 - Risk Assessment and Risk Management
-- Cybersecurity Frameworks
+- Cybersecurity Frameworks (NIST CSF, ISO 27001)
 - Threat Modelling
 - Vulnerability Analysis
 - Information Security Principles
@@ -25,6 +16,26 @@ Some of the areas included in this repository are:
 - Business Continuity and Disaster Recovery
 - Security Policies and Procedures
 - Emerging Cybersecurity Threats
+
+## Skills Demonstrated
+
+- Risk assessment and risk prioritisation
+- Threat modelling and vulnerability analysis
+- Security governance and compliance
+- Business continuity and disaster recovery planning
+- Quantitative risk modelling
+- Technical and academic report writing
+- Team collaboration and reflective practice
+
+  ## Tools and Frameworks
+
+- Git & GitHub
+- Microsoft Excel (Monte Carlo risk modelling)
+- Microsoft Word
+- NIST Cybersecurity Framework (CSF)
+- ISO/IEC 27001
+- CVSS
+- OWASP Threat Modelling
 
 ## Repository Structure
 
@@ -58,6 +69,7 @@ The remaining files in this repository are supporting study materials and eviden
 - Reference documents
 
 These resources demonstrate my continuous learning process and support the development of my e-Portfolio throughout the module.
+
 ## Learning Journey and Module Artefact Index
 
 This e-Portfolio demonstrates my development throughout the Security and Risk Management module, evidencing how I progressively applied theoretical concepts, practical risk assessment techniques, collaborative working, and reflective practice to develop the knowledge, judgement, and professional skills expected of a cybersecurity practitioner.
