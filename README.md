@@ -1,10 +1,18 @@
-# Security and Risk Management
+# Security and Risk Management Portfolio
 
 This repository showcases my MSc Cybersecurity work in Security and Risk Management at the University of Essex. It demonstrates the practical application of cybersecurity governance, risk assessment, threat modelling, business continuity, and quantitative risk analysis through coursework, research, and an assessed e-Portfolio.
 
-## Topics Covered
+## Contents
 
-This repository demonstrates practical knowledge and application of:
+- Topics Covered
+- Skills Demonstrated
+- Tools and Frameworks
+- Repository Structure
+- Learning Journey and Module Artefact Index
+- 
+## Knowledge and Competencies
+
+This portfolio demonstrates the knowledge, practical skills, and analytical competencies developed throughout the Security and Risk Management module, including:
 
 - Risk Assessment and Risk Management
 - Cybersecurity Frameworks (NIST CSF, ISO 27001)
@@ -39,18 +47,15 @@ This repository demonstrates practical knowledge and application of:
 
 ## Repository Structure
 
-This repository contains coursework, supporting resources, and a dedicated e-Portfolio developed throughout the Security and Risk Management module.
-
-### 01_E-Portfolio
-
-This folder contains the core e-Portfolio artefacts required for assessment:
-
-- Collaborative Discussion Summaries
-- Learning Outcomes Mapping
-- Reflective Piece
-- Professional Skills Matrix and Personal Development Plan (PDP)
-- Team Meeting Notes
-- Feedback from Peers and Tutors
+| Folder | Description |
+|--------|-------------|
+| 01_E-Portfolio | Reflective work, collaborative discussions, learning outcomes, PDP, and assessment evidence. |
+| Models | Risk models, diagrams, and analytical frameworks developed during the module. |
+| Presentations | Presentation slides used for seminars and coursework. |
+| References | Academic references, citation material, and supporting literature. |
+| Reports | Coursework reports and major assessment submissions. |
+| Resources | Lecture notes, seminar preparation, reading notes, and supporting study materials. |
+| Templates | Templates and reusable documents created during the module. |
 
 ### Core Assessment Files
 
@@ -70,11 +75,11 @@ The remaining files in this repository are supporting study materials and eviden
 
 These resources demonstrate my continuous learning process and support the development of my e-Portfolio throughout the module.
 
-## Learning Journey and Module Artefact Index
+## Learning Journey
 
 This e-Portfolio demonstrates my development throughout the Security and Risk Management module, evidencing how I progressively applied theoretical concepts, practical risk assessment techniques, collaborative working, and reflective practice to develop the knowledge, judgement, and professional skills expected of a cybersecurity practitioner.
 
-| Unit    | Representative Artefact                                                  | Evidence of Development                                                                                          |
+| Module Unit | Representative Artefact | Professional Skills Developed |                                                                                   |
 | ------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
 | Unit 1  | Unit 1 Lecturecast notes                                                 | Established my initial understanding of security and risk management concepts.                                   |
 | Unit 2  | Collaborative Discussion 1 and GDPR-related activity                     | Developed awareness of legal, ethical and human-rights issues associated with emerging technologies.             |
@@ -90,5 +95,9 @@ This e-Portfolio demonstrates my development throughout the Security and Risk Ma
 | Unit 12 | Reflective Piece, Skills Matrix and PDP                                  | Critically evaluated my learning, teamwork, professional development and future actions.                         |
 
 The complete repository also contains seminar notes, presentations, transcripts, assessment drafts, peer and tutor feedback, simulations and supporting research. Together, these artefacts demonstrate sustained engagement and development across the duration of the module.
+
+## Conclusion
+
+This repository reflects my development throughout the Security and Risk Management module and demonstrates my ability to analyse cybersecurity risks, apply recognised security frameworks, evaluate organisational threats, and communicate technical findings through professional documentation. It serves as evidence of both my academic achievement and my continuing professional development in cybersecurity.
 
 
