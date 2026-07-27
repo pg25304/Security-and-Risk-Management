@@ -1,4 +1,4 @@
-# Security and Risk Management Portfolio
+# Security and Risk Management – MSc Cybersecurity Portfolio
 
 This repository forms part of my professional cybersecurity portfolio and showcases the work completed during the Security and Risk Management module of the MSc Cybersecurity programme at the University of Essex.
 
