@@ -19,13 +19,11 @@ It demonstrates the practical application of cybersecurity governance, informati
 - [Professional Development](#professional-development)
 - [Conclusion](#conclusion)
 
----
 
 ## Repository Overview
 
 Throughout this module I explored how organisations identify, assess, and manage information security risks. The repository combines theoretical study with practical application, demonstrating the development of technical knowledge, analytical thinking, collaborative working, and professional communication expected of a cybersecurity practitioner.
 
----
 
 ## Knowledge and Competencies
 
@@ -44,7 +42,6 @@ This portfolio demonstrates practical knowledge and application of:
 - Quantitative Risk Modelling
 - Emerging Cybersecurity Threats
 
----
 
 ## Skills Demonstrated
 
@@ -63,7 +60,6 @@ Throughout this module I developed and applied the following professional skills
 - Team collaboration
 - Reflective practice
 
----
 
 ## Tools, Standards and Frameworks
 
@@ -82,7 +78,6 @@ Throughout this module I developed and applied the following professional skills
 - GDPR
 - COBIT
 
----
 
 ## Repository Structure
 
@@ -96,7 +91,6 @@ Throughout this module I developed and applied the following professional skills
 | **Resources** | Lecture notes, seminar preparation, wiki activities and study materials. |
 | **Templates** | Reusable templates and supporting documents. |
 
----
 
 ## Learning Journey
 
@@ -117,7 +111,6 @@ This portfolio evidences my progression throughout the Security and Risk Managem
 | Unit 11 | Individual Executive Summary | Integrated module learning into a strategic organisational risk assessment. |
 | Unit 12 | Reflective Portfolio & PDP | Evaluated professional growth, teamwork and future development goals. |
 
----
 
 ## Key Assessments
 
@@ -129,7 +122,6 @@ The repository includes the major assessed coursework completed during the modul
 - Professional Skills Matrix
 - Personal Development Plan (PDP)
 
----
 
 ## Supporting Resources
 
@@ -148,7 +140,6 @@ Additional materials supporting the learning journey include:
 
 These resources demonstrate continuous engagement with the module and provide evidence of progressive learning throughout the programme.
 
----
 
 ## Professional Development
 
