@@ -2,7 +2,7 @@
 
 This repository forms part of my professional cybersecurity portfolio and showcases the work completed during the Security and Risk Management module of the MSc Cybersecurity programme at the University of Essex.
 
-It demonstrates the practical application of cybersecurity governance, information risk management, threat modelling, business continuity, quantitative risk analysis, and professional decision-making through coursework, research, practical exercises, and an assessed e-Portfolio.
+It demonstrates the practical application of cybersecurity governance, information risk management, threat modelling, business continuity, qualititative and quantitative risk analysis, and professional decision-making through coursework, research, practical exercises, and an assessed e-Portfolio.
 
 ---
 
